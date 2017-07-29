@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Transitive Closure</string>
+    <string name="enter_relation">Enter relation :</string>
+    <string name="calculate">Calculate</string>
+    <string name="the_transitive_closure_is">Transitive closure :</string>
+    <string name="cardinality">Cardinality :</string>
+    <string name="given_relation_is">Given Relation :</string>
+    <string-array name="spinner_entries">
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+</resources>
